@@ -1,0 +1,7 @@
+streamlit==1.28.1
+ibm-watson==7.0.1
+ibm-cloud-sdk-core==3.16.7
+requests==2.31.0
+python-dotenv==1.0.0
+pydub==0.25.1
+gradio_client==0.16.4
